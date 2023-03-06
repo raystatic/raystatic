@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rahul Ray
-#### Android Developer @MathonGo
+#### Android Developer @Lenskart
 ![Android Developer @MathonGo](https://user-images.githubusercontent.com/31301266/150575330-f09da809-4dfe-4c0f-aa78-8a3f80af67bb.png)
 
 I'm a New Delhi based Android Developer && Mern Stack Developer. Currently Employed by Lenskart.com where I work as an Android Developer.
