@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Rahul Ray
-#### Android Developer @Lenskart
-![Android Developer @MathonGo](https://user-images.githubusercontent.com/31301266/150575330-f09da809-4dfe-4c0f-aa78-8a3f80af67bb.png)
+#### Android Developer @ Lenskart
+![Android Developer @Lenskart](https://user-images.githubusercontent.com/31301266/150575330-f09da809-4dfe-4c0f-aa78-8a3f80af67bb.png)
 
 I'm a New Delhi based Android Developer && Mern Stack Developer. Currently Employed by Lenskart.com where I work as an Android Developer.
 
-### Checkout my recent released app here [ MARKS <img src='https://play-lh.googleusercontent.com/LSHIcrtwQ3yjfzm87Ng4q4u4XkGsaZuPBVOmLRnRRpm6ok2FLQ_ZWpYFfeGvOh7c_g=s360-rw' height='15'>](https://play.google.com/store/apps/details?id=com.scoremarks.marks)
+### Currently I am working on [ Lenskart <img src='https://play-lh.googleusercontent.com/UlSOlQSBkqPjYqKnuPtgpL7-TeAt2O7x8XnQKVelhhxL983Om0xjXmv4wVvVbeznWGg=s96' height='16'>](https://play.google.com/store/apps/details?id=com.lenskart.app)
 
 #### Expert <br>Android
   
